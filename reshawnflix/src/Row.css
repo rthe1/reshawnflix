@@ -1,4 +1,5 @@
 .row {
+  color: aliceblue;
   margin-left: 20px;
 }
 
@@ -29,6 +30,6 @@ display: none;
 max-height: 250px;
 }
 
-.row_posterLarge {
+.row_posterLarge:hover {
   transform: scale(1.08);
   }
